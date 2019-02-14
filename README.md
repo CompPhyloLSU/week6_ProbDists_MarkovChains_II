@@ -1,5 +1,7 @@
 # Continuous Probability Distributions and Markov Chains (Week 6)
 
+## Topics
+
 ### Discrete-Time Markov Chains
 
 - Markov property
@@ -21,3 +23,15 @@
 
 - Exponential waiting times
 - Poisson processes
+
+## Reading
+
+- Yang, Ch. 1
+- Yang, Ch. 12.5-12.6 (as needed)
+
+## Assignment
+
+Modify the code that we covered in class to simulate a discrete-time Markov chain in order to 
+simulate nucleotide evolution (four states - A,C,G,T) in a continuous-time Markov chain.
+
+Pseudocode first!
