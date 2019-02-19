@@ -31,7 +31,9 @@
 
 ## Assignment
 
-Modify the code that we covered in class to simulate a discrete-time Markov chain in order to 
-simulate nucleotide evolution (four states - A,C,G,T) in a continuous-time Markov chain.
+Modify the code that we covered in class to simulate a discrete-time Markov chain in order to
+simulate nucleotide evolution (four states - A,C,G,T) in a continuous-time Markov chain. You
+can assume a Jukes-Cantor model of sequence evolution.
 
-Pseudocode first!
+Pseudocode first! Use the example we walked through in class (see slides) as a guide to the steps
+involved in simulation.
